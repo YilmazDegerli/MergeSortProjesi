@@ -10,4 +10,12 @@ Proje 2
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 2. Big-O gösterimini yazınız.
 
+## CEVAPLAR
+
 1. Merge Sort Asamalari
+
+
+
+2. Big-O Gösterimi
+
+[www.patika.dev](https://www.patika.dev/)

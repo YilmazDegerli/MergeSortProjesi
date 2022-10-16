@@ -1,5 +1,4 @@
-# MergeSortProjesi
-Veri Yapıları ve Algoritmalar > Merge Sort Projesi
+# Veri Yapilari ve Algoritmalar Kursu Bitirme Projesi
 
 ## Merge Sort Projesi
 
